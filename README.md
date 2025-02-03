@@ -16,7 +16,7 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
 
 ## Skills learnt from project
 
-## key metrices learnt:
+### key metrices learnt:
 i.	revenue
 ii.	RevPAR
 iii.	ADR
@@ -26,12 +26,12 @@ vi.	DURN
 vii.	Realisation %
 viii.	occupancy and cancellation %
 
-## power BI fundamentals
+### power BI fundamentals
 ix.	data cleaning and snowflake schema modelling
 x.	learnt about page navigation, tool tip,conditional formatting
 xi.	created donut ,line,line and clustered columns chart, matrix table.
 
-## soft skills
+### soft skills
 xii.	domain knowledge in hospitality
 xiii.	understanding stakeholders requirement from mock up dashboard
 
